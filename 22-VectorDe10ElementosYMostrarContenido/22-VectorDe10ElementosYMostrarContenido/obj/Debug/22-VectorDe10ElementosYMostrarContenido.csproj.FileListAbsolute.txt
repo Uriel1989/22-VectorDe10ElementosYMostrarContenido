@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\22-VectorDe10ElementosYMostrarContenido\22-VectorDe10ElementosYMostrarContenido\bin\Debug\22-VectorDe10ElementosYMostrarContenido.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\22-VectorDe10ElementosYMostrarContenido\22-VectorDe10ElementosYMostrarContenido\bin\Debug\22-VectorDe10ElementosYMostrarContenido.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\22-VectorDe10ElementosYMostrarContenido\22-VectorDe10ElementosYMostrarContenido\obj\Debug\22-VectorDe10ElementosYMostrarContenido.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\22-VectorDe10ElementosYMostrarContenido\22-VectorDe10ElementosYMostrarContenido\obj\Debug\22-VectorDe10ElementosYMostrarContenido.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\22-VectorDe10ElementosYMostrarContenido\22-VectorDe10ElementosYMostrarContenido\obj\Debug\22-VectorDe10ElementosYMostrarContenido.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\22-VectorDe10ElementosYMostrarContenido\22-VectorDe10ElementosYMostrarContenido\obj\Debug\22-VectorDe10ElementosYMostrarContenido.pdb
